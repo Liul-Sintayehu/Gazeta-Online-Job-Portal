@@ -16,7 +16,7 @@ namespace FSC.API.Options
         {
             var info = new OpenApiInfo
             {
-                Title = "SeMS-API",
+                Title = "Fitness Api",
                 Version = description.ApiVersion.ToString()
 
             };
