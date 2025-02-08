@@ -16,7 +16,7 @@ namespace FSC.API.Options
         {
             var info = new OpenApiInfo
             {
-                Title = "Fitness Api",
+                Title = "Gazata online job portal Api",
                 Version = description.ApiVersion.ToString()
 
             };
