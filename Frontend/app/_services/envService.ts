@@ -1,0 +1,10 @@
+export const authSecret = process.env.AUTH_SECRET;
+export const authUrl = process.env.NEXT_PUBLIC_AUTH_URL;
+export const baseUrl = process.env.NEXT_PUBLIC_BASE_URL;
+export const clientId = process.env.NEXT_PUBLIC_CLIENT_ID;
+export const clientSecret = process.env.NEXT_PUBLIC_CLIENT_SECRET;
+export const imageServerUrl = process.env.NEXT_PUBLIC_IMAGE_URL;
+export const serverUrl = process.env.NEXT_PUBLIC_BASE_URL;
+export const originUrl = process.env.AUTH_URL;
+export const identityUrl = process.env.IDENTITY_URL;
+export const tokenExpiry = process.env.NEXTAUTH_TOKEN_EXPIRE || 4;
